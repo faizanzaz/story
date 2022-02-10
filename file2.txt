@@ -1,0 +1,1 @@
+This is a second file in the folder, making these files, because i am trying to learn git.
